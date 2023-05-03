@@ -12,3 +12,9 @@ Acardan sonra sanaldaki en iyi :) web panel bot kontrolü sağlayan api, önceki
 - Panel de 2 adet yetki bulunmakta. (Admin, Supernative) Supernative yetkisi verdiğiniz kullanıcı sadece kendi panelini görüp kontrol edebilmektedir. Admin tüm hepsini.
 
 Kısacası bu kadar arkadaşlar ssleri birazdan atıcam, star ve fork çekersiniz :)<3 Normalde böyle bir panel yapma fikrim bulunmamaktaydı bazı şeyler yüzünden bu paneli bitirmiş bulundum bitirmemi sağlayan (pèll namı değer eşime teşekkürlerimi çokça iletmek istiyorum.)
+
+![image](https://user-images.githubusercontent.com/74346832/235816320-949d0bd9-aad4-46e5-a4fe-c4ba2fe3746b.png)
+![image](https://user-images.githubusercontent.com/74346832/235816434-7279211a-2b8b-4f1f-9f39-d5e5f09de2d7.png)
+![image](https://user-images.githubusercontent.com/74346832/235816578-20e71d18-54a8-46fd-818e-1cedc92c5028.png)
+
+Bazı şeyleri evet daha yapmadım, %89 gibi bir yüzde ile hazır bulunmakta :)
