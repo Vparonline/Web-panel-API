@@ -2,7 +2,7 @@
 
 Acardan sonra sanaldaki en iyi :) web panel bot kontrolü sağlayan api, önceki repomda thesellix.site "ejs" halini atmıştım.
 
-Şimdi sizin türeme maymunların dediği **lah gibi panel apisi, aşağıda ufak ssleri ile sizlere sunmaktayım, peki ne bu la türeme elçıhavoo xd?
+Şimdi sizin türeme maymunların dediği **lah gibi panel apisi, aşağıda ufak ssleri ile sizlere sunmaktayım, peki ne bu la türeme elçıhavoo xd? Anlatıma geçmeden önce, kanka eğer kuramıyorsan cidden bir an önce bu işi bırakmalısın bunu kuramamak kötü olmaktan değil, aptal bir insan olduğundan kaynaklanıyor bilgin olsun.
 
 # Anlatım
 
