@@ -18,3 +18,8 @@ Kısacası bu kadar arkadaşlar ssleri birazdan atıcam, star ve fork çekersini
 ![image](https://user-images.githubusercontent.com/74346832/235816578-20e71d18-54a8-46fd-818e-1cedc92c5028.png)
 
 Bazı şeyleri evet daha yapmadım, %89 gibi bir yüzde ile hazır bulunmakta :)
+
+https://cdn.discordapp.com/attachments/1109596122806243510/1111086729462554755/image.png
+https://cdn.discordapp.com/attachments/1111087682752368801/1111087691929497620/image.png
+https://cdn.discordapp.com/attachments/1111087682752368801/1111087724045287484/image.png
+😃
