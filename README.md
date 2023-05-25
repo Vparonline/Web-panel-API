@@ -25,6 +25,8 @@ Bazı şeyleri evet daha yapmadım, %89 gibi bir yüzde ile hazır bulunmakta :)
 ![image](https://github.com/Vparonline/Web-panel-API/assets/74346832/f708d57d-d61d-4c81-a853-a8183b3e4246)
 ![image](https://github.com/Vparonline/Web-panel-API/assets/74346832/f7682643-0c3d-482a-86be-e40254f3d76b)
 ![image](https://github.com/Vparonline/Web-panel-API/assets/74346832/96d11366-d2b5-49a1-ac46-0b54a802d8f3)
+![image](https://github.com/Vparonline/Web-panel-API/assets/74346832/594040a9-375c-4681-9729-464993b1d2a3)
+![image](https://github.com/Vparonline/Web-panel-API/assets/74346832/643fcf10-1ebe-493a-abc2-8177003a0229)
 
 <br>
 Daha yolun başında, hepsi paylaşılacaktır.
