@@ -23,5 +23,8 @@ Bazı şeyleri evet daha yapmadım, %89 gibi bir yüzde ile hazır bulunmakta :)
 [Canlı kayıt edilen erkek,kadın verisi]
 ![image](https://github.com/Vparonline/Web-panel-API/assets/74346832/3229737f-54a8-4621-a095-3088136a990e)
 ![image](https://github.com/Vparonline/Web-panel-API/assets/74346832/f708d57d-d61d-4c81-a853-a8183b3e4246)
+![image](https://github.com/Vparonline/Web-panel-API/assets/74346832/f7682643-0c3d-482a-86be-e40254f3d76b)
+![image](https://github.com/Vparonline/Web-panel-API/assets/74346832/96d11366-d2b5-49a1-ac46-0b54a802d8f3)
+
 <br>
 Daha yolun başında, hepsi paylaşılacaktır.
