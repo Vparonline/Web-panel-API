@@ -19,7 +19,10 @@ Kısacası bu kadar arkadaşlar ssleri birazdan atıcam, star ve fork çekersini
 
 Bazı şeyleri evet daha yapmadım, %89 gibi bir yüzde ile hazır bulunmakta :)
 
-https://cdn.discordapp.com/attachments/1109596122806243510/1111086729462554755/image.png
-https://cdn.discordapp.com/attachments/1111087682752368801/1111087691929497620/image.png
-https://cdn.discordapp.com/attachments/1111087682752368801/1111087724045287484/image.png
+![image](https://github.com/Vparonline/Web-panel-API/assets/74346832/930311f9-f423-4dd7-b1f6-f31e2bb53cc6)
+[Canlı kayıt edilen erkek verisi]
+![image](https://github.com/Vparonline/Web-panel-API/assets/74346832/3229737f-54a8-4621-a095-3088136a990e)
+[Canlı kayıt edilen kadın verisi]
+![image](https://github.com/Vparonline/Web-panel-API/assets/74346832/f708d57d-d61d-4c81-a853-a8183b3e4246)
+
 😃
