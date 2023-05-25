@@ -18,7 +18,7 @@ Kısacası bu kadar arkadaşlar ssleri birazdan atıcam, star ve fork çekersini
 ![image](https://user-images.githubusercontent.com/74346832/235816578-20e71d18-54a8-46fd-818e-1cedc92c5028.png)
 
 Bazı şeyleri evet daha yapmadım, %89 gibi bir yüzde ile hazır bulunmakta :)
-
+[Noktaya kadar log]
 ![image](https://github.com/Vparonline/Web-panel-API/assets/74346832/930311f9-f423-4dd7-b1f6-f31e2bb53cc6)
 [Canlı kayıt edilen erkek verisi]
 ![image](https://github.com/Vparonline/Web-panel-API/assets/74346832/3229737f-54a8-4621-a095-3088136a990e)
